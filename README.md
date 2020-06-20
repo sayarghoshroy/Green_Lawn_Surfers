@@ -1,6 +1,6 @@
 # Green Lawn Surfers
 
-### Simple version of Subway Surfers
+###  Subway Surfers but on a lawn & with Angry Birds
 
 #### To Run:
 
@@ -18,7 +18,7 @@ firefox index.html
 
 <kbd>Space</kbd> Jump
 
-<kbd>g</kbd> Greyscale
+<kbd>G</kbd> Greyscale
 
 ---
 
@@ -54,6 +54,6 @@ firefox index.html
 
 - See console logs to analyze your game
 
-##### Enjoy
+#### Good Luck and Enjoy
 
 ---
